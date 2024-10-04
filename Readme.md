@@ -1,27 +1,29 @@
 # CodeHelp
 
 ## Index
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Steps](#steps)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-  - [Server](#server)
-  - [Client](#client)
-  - [File and Folder Structure](#file-and-folder-structure)
-- [Customization](#customization)
-  - [CodeMirror Themes](#codemirror-themes)
-  - [Toast Notifications](#toast-notifications)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [CodeHelp](#codehelp)
+  - [Index](#index)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Tech Stack](#tech-stack)
+  - [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
+  - [Usage](#usage)
+  - [Code Structure](#code-structure)
+    - [Server](#server)
+    - [Client](#client)
+    - [File and Folder Structure](#file-and-folder-structure)
+  - [Customization](#customization)
+    - [CodeMirror Themes](#codemirror-themes)
+    - [Toast Notifications](#toast-notifications)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
 ## Overview
 
-The idea for this project came from the frequent times my friends and I needed help with our code. Sending and receiving code snippets back and forth was cumbersome, and using tools like Google Meet often faced issues with internet stability, lag, and poor video quality. To make collaborative coding easier and more efficient, I developed a real-time code collaboration application. This app features a code editor, user management, and real-time synchronization of code changes, allowing us to work together seamlessly and solve coding doubts hands-on.
+The idea for this project came from the frequent times my friends and I needed help with our code. Sending and receiving code snippets back and forth was cumbersome, and using tools like Google Meet often faced issues with internet stability, lag, and poor video quality. To make collaborative coding easier and more efficient, I developed a real-time code collaboration application. This app features a code editor, user management, and real-time synchronization of code changes, allowing us to work together seamlessly and solve coding doubts hands-on. 
 
 ## Features
 
